@@ -17,7 +17,7 @@
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (http://dev.sipdoc.net)"
   ],
-  "version": "1.0.22",
+  "version": "1.0.23",
   "repository": {
     "type": "git",
     "url": "https://github.com/jiborobot/websocket-without-native.git"
